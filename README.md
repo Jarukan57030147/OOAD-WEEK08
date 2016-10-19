@@ -6,10 +6,15 @@
 code
 
 Jonh -down- (reserve DVD)
+
 Jonh -down- (borrow DVD)
+
 Jonh -down- (return DVD)
+
 (reserve DVD) --|> (check reseervation) : include
+
 (borrow DVD) --|> (check reseervation) : include
+
 (calculate fine) -up-|> (return DVD) : entend
 
 [![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/ZOux3eCm44HxJZ4b55m0HLHK722zMGPXOQsbZPqq73uWX0Ifqhxvzd5Mr3LAuuls9hfdLnNzIOTe5Zy_4CQKJGzw2sxosgAKcRBW45poKIiqW5S9UMHnBVqlS1t4Ozq_Y0kIWql4v9MxdPgeunS0)
