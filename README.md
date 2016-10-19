@@ -24,11 +24,17 @@ Jonh -down- (return DVD)
 code
 
 :admin user:as user
+
 :simple user: as mysql
+
 user <-up- mysql : entend
+
 user -right- (Add Discounted customer)
+
 mysql -right- (Add simple user)
+
 (Add simple user) .right.> (send a email) : include
+
 (Add Discounted customer) ..> (send a email) : include
 
 [![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/VOwn2iCm34HtVSMDoU1yW8T0eJzYB0q2oschUEZVrpYq15gw7E9Et3kAhdOhWkRoG4HosDFlXOOY14mNPfoUPlfoi2mh9fVAI11BMkPUfJMNna8niMaz0SP5GqDO3rvFfEwzuUqVtAjwtbeF6Bdvljc7_olvk-C5) 
@@ -38,9 +44,13 @@ mysql -right- (Add simple user)
 code
 
 :card holder: as holder
+
 holder -- (enter password)
+
 holder -- (check Balance)
+
 holder -- (withdraw Cash)
+
 holder -- (Get Slip)
 
 [![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/iqfEB4fHoCZFIKajKh1II2o6ihcWGhgw2XgfUIL0La5YSN5vVb6A9h9KSaPgShQ2Ks9EObvoAefCUMP9HafHOhc2Ss9n1egCUsg9Gd1EPe4c0000) 
@@ -50,13 +60,21 @@ holder -- (Get Slip)
 code
 
 left to right direction
+
 Customer -- (Check Status)
+
 Customer -- (Place Order)
+
 Customer -- (Fill Order)
+
 Customer -- (Establish Credit)
+
 salesperson -up- (Check Status)
+
 salesperson -up- (Place Order)
+
 Clerk -up- (Fill Order)
+
 Manager -up- (Establish Credit)
 
 [![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/RSqn3i8m38NXFQVmI8UU8e8DWSG9J68QgoP1jdl_aWbAMT_tf5_euU0DbAVYa5afERSQucBUdgG0umY7L2ZDS7FqnOQFTReA9eABPj8VER78NpYQurtO2aIbp3w4RQ2V38NiHMgjGjX4zleLwXY5T7xFkqp7CrQSI5S0)
@@ -66,11 +84,17 @@ Manager -up- (Establish Credit)
 code
 
 :Registration Staff : as staff
+
 :Financial Staff : as mysql
+
 staff -- (Register Course)
+
 Student -- (Register Course)
+
 (Register Course) --|> (Checkout Course) : uses
+
 Student -- (Record Billing)
+
 mysql -- (Record Billing)
 
 [![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/ROyn2iCm34Ltd-AFoP0BUEZGG0yGdy0uIYfgPB3ahOTlcq19QHOX_d_YeM1j9Z4C0pfCjB8QLOobLQNUXKCxKIfrnfLpPbbxvt5ZYP8uPWIBo-8H5VhPt3PFh_ubR-nvGJVUAJrAis_iqPJK-PslqRZ8Bi9cEkRk1phzvGK0)
