@@ -1,51 +1,24 @@
 # OOAD-WEEK08
 
 ## Use Case Diagram (ภาษาไทย)
-* บรรยายเรื่อง UML โดย อ.ปานใจ  
+* รูปที่ 1 การจอง ยืม คืน หนังสือ
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/0eq2FGEQul8/0.jpg)](http://www.youtube.com/watch?v=0eq2FGEQul8 "บรรยายเรื่อง UML โดย อ.ปานใจ  " target="_blank") 
+[![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/ZOux3eCm44HxJZ4b55m0HLHK722zMGPXOQsbZPqq73uWX0Ifqhxvzd5Mr3LAuuls9hfdLnNzIOTe5Zy_4CQKJGzw2sxosgAKcRBW45poKIiqW5S9UMHnBVqlS1t4Ozq_Y0kIWql4v9MxdPgeunS0)
 
-* เรียนการออกแบบโปรแกรมด้วย UML กับโปรเอิ๊ก ตอนที่ 1 การเขียน Requirement Card และ Use case   
+* รูปที่ 2 ระบบส่วนลดลูกค้า
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/u9sNT6x0Mlo/0.jpg)](http://www.youtube.com/watch?v=u9sNT6x0Mlo "เรียนการออกแบบโปรแกรมด้วย UML กับโปรเอิ๊ก ตอนที่ 1 การเขียน Requirement Card และ Use case " target="_blank") 
+[![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/VOwn2iCm34HtVSMDoU1yW8T0eJzYB0q2oschUEZVrpYq15gw7E9Et3kAhdOhWkRoG4HosDFlXOOY14mNPfoUPlfoi2mh9fVAI11BMkPUfJMNna8niMaz0SP5GqDO3rvFfEwzuUqVtAjwtbeF6Bdvljc7_olvk-C5) 
 
-* How to draw a UML Use Case Diagram
+* รูปที่ 3 ลูกค้ากับตู้ATM
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/UzprPX82Nac/0.jpg)](http://www.youtube.com/watch?v=UzprPX82Nac "How to draw a UML Use Case Diagram" target="_blank") 
+[![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/iqfEB4fHoCZFIKajKh1II2o6ihcWGhgw2XgfUIL0La5YSN5vVb6A9h9KSaPgShQ2Ks9EObvoAefCUMP9HafHOhc2Ss9n1egCUsg9Gd1EPe4c0000) 
 
-## Use Case Diagram Tutorial (VTC)
+* รูปที่ 4 การสั่งซื้อสินค้าทางโทรศัพท์ 
 
-* 3.01_Use Case Basics  
+[![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/RSqn3i8m38NXFQVmI8UU8e8DWSG9J68QgoP1jdl_aWbAMT_tf5_euU0DbAVYa5afERSQucBUdgG0umY7L2ZDS7FqnOQFTReA9eABPj8VER78NpYQurtO2aIbp3w4RQ2V38NiHMgjGjX4zleLwXY5T7xFkqp7CrQSI5S0)
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/tLJXJLfLCCM/0.jpg)](http://www.youtube.com/watch?v=tLJXJLfLCCM " 3.01_Use Case Basics " target="_blank") 
+* รูปที่ 5 ระบบการลงทะเบียน
 
-* 3.02_Modeling Use Case Elements  
-
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/_JCsqdNf8bA/0.jpg)](http://www.youtube.com/watch?v=_JCsqdNf8bA " 3.02_Modeling Use Case Elements " target="_blank") 
- 
-* 3.03_A Use Case Diagram for an ATM  
-
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/SmcBTsPsbIY/0.jpg)](http://www.youtube.com/watch?v=SmcBTsPsbIY " 3.03_A Use Case Diagram for an ATM" target="_blank") 
-
+[![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/ROyn2iCm34Ltd-AFoP0BUEZGG0yGdy0uIYfgPB3ahOTlcq19QHOX_d_YeM1j9Z4C0pfCjB8QLOobLQNUXKCxKIfrnfLpPbbxvt5ZYP8uPWIBo-8H5VhPt3PFh_ubR-nvGJVUAJrAis_iqPJK-PslqRZ8Bi9cEkRk1phzvGK0)
  
 
-* 3.04_The ''include'' Dependency  
-
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/q7O2EAZ_s7M/0.jpg)](http://www.youtube.com/watch?v=q7O2EAZ_s7M " 3.04_The ''include'' Dependency " target="_blank") 
-
- 
-
-* 3.05_The ''extend'' Dependency  
-
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/bL_Bl_Xl7wQ/0.jpg)](http://www.youtube.com/watch?v=bL_Bl_Xl7wQ " 3.05_The ''extend'' Dependency" target="_blank") 
-
- 
-* 3.06_Generalization  
-
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/x5LkaZlLT28/0.jpg)](http://www.youtube.com/watch?v=x5LkaZlLT28 " 3.06_Generalization" target="_blank") 
-
- 
-* 3.07_Putting It All Together  
-
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/gYmOzpU7DDI/0.jpg)](http://www.youtube.com/watch?v=gYmOzpU7DDI " 3.07_Putting It All Together" target="_blank") 
- 
