@@ -4,6 +4,7 @@
 * รูปที่ 1 การจอง ยืม คืน หนังสือ
 
 code
+
 Jonh -down- (reserve DVD)
 Jonh -down- (borrow DVD)
 Jonh -down- (return DVD)
@@ -30,6 +31,7 @@ mysql -right- (Add simple user)
 * รูปที่ 3 ลูกค้ากับตู้ATM
 
 code
+
 :card holder: as holder
 holder -- (enter password)
 holder -- (check Balance)
